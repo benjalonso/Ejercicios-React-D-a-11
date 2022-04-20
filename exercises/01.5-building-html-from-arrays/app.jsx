@@ -5,7 +5,7 @@ import ReactDOM from "react-dom"; //we use ReactDOM to render into the DOM
 const navlinkItems = [
 	<li className="nav-item">
 		<a className="nav-link" href="#">
-			Link to google.com
+			Link to google.cooom
 		</a>
 	</li>,
 	<li className="nav-item">
